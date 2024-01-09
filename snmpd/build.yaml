@@ -7,5 +7,5 @@ build_from:
 labels:
   org.opencontainers.image.title: "SNMPD"
   org.opencontainers.image.description: "Monitor your HA installation via snmp"
-  org.opencontainers.image.source: "https://github.com/mib1185/ha-addon-snmpd"
+  org.opencontainers.image.source: "https://github.com/tinwis/snmpd"
   org.opencontainers.image.licenses: "Apache License 2.0"
