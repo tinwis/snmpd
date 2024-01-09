@@ -13,8 +13,8 @@ init: false
 startup: services
 host_network: true
 options:
-  snmp_community: pmnsssah
-  snmp_name: ha
+  snmp_community: VAveNjN7Hb
+  snmp_name: homeassistant
   snmp_location: home
   snmp_contact: me
 schema:
